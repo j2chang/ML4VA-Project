@@ -1,4 +1,5 @@
 Childhood Obesity Prediction
+
 Overview
 This repository contains the code used for the analysis and prediction of childhood obesity based on socioeconomic factors, utilizing machine learning techniques. The project aims to explore whether factors such as family situation, child behavior, activity level, and lifestyle can effectively predict obesity in children aged 10-17. The code provided here includes data preprocessing, model training, evaluation, and visualization.
 
